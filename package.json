@@ -1,0 +1,17 @@
+{
+  "name": "pictu",
+  "productName": "pictu",
+  "version": "1.0.0",
+  "description": "app to resize image",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "webontwikkelaarPortfolio",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^21.1.1",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
